@@ -456,4 +456,4 @@ client.giveawaysManager.on("giveawayReactionAdded", (giveaway, member, reaction)
     }
 
 
-client.login('Nzg0NTUxMjQ0MTUxNjUyMzcy.X8q8SA.TtbE01TyqCYmf9NL1NjfxGW4K3k')
+client.login(token)
